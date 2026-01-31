@@ -62,13 +62,6 @@
 
 ----
 
-## Open source licensing info
-1. [TERMS](TERMS.md)
-2. [LICENSE](LICENSE)
-3. (при необходимости — ссылка на политику исходного кода)
-
-----
-
 ## Источники и справочники
 1. Паттерн Observer — GoF, «Приёмы объектно-ориентированного проектирования».
 2. Документация JavaFX (OpenJFX), в частности Application, FXML, Media, Platform.runLater.
